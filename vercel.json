@@ -1,7 +1,5 @@
 {
-  "buildCommand": "npm run build",
-  "outputDirectory": "dist/client",
-  "installCommand": "npm install",
+  "version": 2,
   "framework": "vite",
   "functions": {
     "api/index.ts": {
@@ -9,9 +7,6 @@
     }
   },
   "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "/api/index"
-    }
+    { "source": "/(.*)", "destination": "/index.html" }
   ]
 }
