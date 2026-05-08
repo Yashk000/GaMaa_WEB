@@ -1,0 +1,64 @@
+[
+  {
+    "id": "ai-automation-2026",
+    "published": false,
+    "category": "IT Solutions",
+    "gradient": "from-blue-600/20 to-cyan-500/20",
+    "createdAt": "2026-04-09T18:30:00.000Z",
+    "updatedAt": "2026-05-07T16:53:35.890Z"
+  },
+  {
+    "id": "web-dev-trends",
+    "published": false,
+    "category": "Web Dev",
+    "gradient": "from-indigo-600/20 to-blue-500/20",
+    "createdAt": "2026-04-04T18:30:00.000Z",
+    "updatedAt": "2026-05-07T16:53:45.105Z"
+  },
+  {
+    "id": "cloud-migration",
+    "published": false,
+    "category": "IT Solutions",
+    "gradient": "from-sky-600/20 to-blue-400/20",
+    "createdAt": "2026-03-27T18:30:00.000Z",
+    "updatedAt": "2026-05-07T16:53:51.405Z"
+  },
+  {
+    "id": "mobile-app-ux",
+    "title": "Designing Mobile Apps That Users Actually Love",
+    "slug": "mobile-app-ux",
+    "excerpt": "UX principles that separate great apps from forgettable ones. Real examples and actionable tips from our development team.",
+    "content": "Users decide quickly whether an app feels intuitive. Great mobile UX minimizes friction in onboarding, search, and core actions.\n\nConsistency matters more than novelty. Navigation patterns, spacing systems, and interaction feedback should remain predictable across screens.\n\nPerformance is part of UX. Fast transitions, responsive forms, and graceful loading states directly influence retention and app ratings.\n\nDesigning with real user journeys and measurable behavior data leads to products that users keep returning to.",
+    "author": "GaMaa Team",
+    "category": "App Dev",
+    "gradient": "from-cyan-600/20 to-teal-500/20",
+    "createdAt": "2026-03-19T18:30:00.000Z",
+    "updatedAt": "2026-05-07T16:54:00.103Z"
+  },
+  {
+    "id": "workflow-automation",
+    "title": "5 Workflows You Should Automate Right Now",
+    "slug": "workflow-automation",
+    "excerpt": "Stop wasting hours on repetitive tasks. These five automation opportunities deliver immediate ROI for any business.",
+    "content": "Automation opportunities exist in every department, but the highest-impact wins are usually found in lead routing, status updates, approvals, and report generation.\n\nWhen evaluating workflows, focus on tasks that are repetitive, rules-based, and time sensitive. These are ideal candidates for immediate automation.\n\nSuccessful rollout depends on clear ownership and exception handling. Automations should route edge cases to humans instead of failing silently.\n\nBy automating a few targeted workflows first, teams can demonstrate ROI quickly and build confidence for larger automation programs.",
+    "author": "GaMaa Team",
+    "published": true,
+    "category": "Automation",
+    "gradient": "from-blue-700/20 to-indigo-500/20",
+    "createdAt": "2026-03-11T18:30:00.000Z",
+    "updatedAt": "2026-03-11T18:30:00.000Z"
+  },
+  {
+    "id": "cybersecurity-essentials",
+    "title": "Cybersecurity Essentials for Growing Companies",
+    "slug": "cybersecurity-essentials",
+    "excerpt": "As your business scales, so do the threats. Learn the essential security practices that protect your data and reputation.",
+    "content": "Growing companies often underestimate security risk during rapid expansion. New tools, vendors, and team members can introduce attack surfaces quickly.\n\nBaseline controls should include multi-factor authentication, role-based access, endpoint protection, and regular backup testing.\n\nSecurity awareness training is equally important. Many incidents begin with phishing or social engineering, making team education a critical line of defense.\n\nA practical incident response plan helps teams react decisively when something goes wrong, reducing downtime and reputational damage.",
+    "author": "GaMaa Team",
+    "published": true,
+    "category": "Security",
+    "gradient": "from-slate-600/20 to-blue-600/20",
+    "createdAt": "2026-03-04T18:30:00.000Z",
+    "updatedAt": "2026-03-04T18:30:00.000Z"
+  }
+]
